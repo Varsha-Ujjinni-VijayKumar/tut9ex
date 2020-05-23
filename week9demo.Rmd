@@ -32,6 +32,7 @@ header-includes:
 
 ```{r}
 library(tidyverse)
+library(kableExtra)
 ```
 
 
@@ -50,7 +51,10 @@ crime <- read_csv(here::here("Data_Crime.csv"))
 
 # Section 2
 My name is Rahul. I'm from Bangalore. I like Table Tennis and Coding.
-
+```{r}
+data <- read_csv("Data_Crime.csv")
+data %>% kable()
+```
 \clearpage
 
 # Section 3
