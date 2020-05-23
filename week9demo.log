@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.14)  23 MAY 2020 19:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.14)  23 MAY 2020 19:25
 entering extended mode
 **./week9demo.tex
 (week9demo.tex
@@ -972,42 +972,192 @@ s
 \f@nch@O@erf=\skip64
 \f@nch@O@olf=\skip65
 \f@nch@O@orf=\skip66
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.
+sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen276
+\lightrulewidth=\dimen277
+\cmidrulewidth=\dimen278
+\belowrulesep=\dimen279
+\belowbottomsep=\dimen280
+\aboverulesep=\dimen281
+\abovetopsep=\dimen282
+\cmidrulesep=\dimen283
+\cmidrulekern=\dimen284
+\defaultaddspace=\dimen285
+\@cmidla=\count315
+\@cmidlb=\count316
+\@aboverulesep=\dimen286
+\@belowrulesep=\dimen287
+\@thisruleclass=\count317
+\@lastruleclass=\count318
+\@thisrulewidth=\dimen288
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.st
+y"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip67
+\LTright=\skip68
+\LTpre=\skip69
+\LTpost=\skip70
+\LTchunksize=\count319
+\LTcapwidth=\dimen289
+\LT@head=\box74
+\LT@firsthead=\box75
+\LT@foot=\box76
+\LT@lastfoot=\box77
+\LT@cols=\count320
+\LT@rows=\count321
+\c@LT@tables=\count322
+\c@LT@chunks=\count323
+\LT@p@ftn=\toks41
+) ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen290
+\ar@mcellbox=\box78
+\extrarowheight=\dimen291
+\NC@list=\toks42
+\extratabsurround=\skip71
+\backup@length=\skip72
+\ar@cellbox=\box79
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip73
+\multirow@cntb=\count324
+\multirow@dima=\skip74
+\bigstrutjot=\dimen292
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen293
+\WF@size=\dimen294
+\c@WF@wrappedlines=\count325
+\WF@box=\box80
+\WF@everypar=\toks43
+Package: wrapfig 2003/01/31  v 3.6
+) ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count326
+\float@exts=\toks44
+\float@box=\box81
+\@float@everytoks=\toks45
+\@floatcapt=\box82
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
+sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks46
+\minrowclearance=\skip75
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdflscape\pdflscap
+e.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tabu\tabu.sty"
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidth.
+sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box83
+\sift@deathcycles=\count327
+\@vwid@loff=\dimen295
+\@vwid@roff=\dimen296
+)
+\c@taburow=\count328
+\tabu@nbcols=\count329
+\tabu@cnt=\count330
+\tabu@Xcol=\count331
+\tabu@alloc=\count332
+\tabu@nested=\count333
+\tabu@target=\dimen297
+\tabu@spreadtarget=\dimen298
+\tabu@naturalX=\dimen299
+\tabucolX=\dimen300
+\tabu@Xsum=\dimen301
+\extrarowdepth=\dimen302
+\abovetabulinesep=\dimen303
+\belowtabulinesep=\dimen304
+\tabustrutrule=\dimen305
+\tabu@thebody=\toks47
+\tabu@footnotes=\toks48
+\tabu@box=\box84
+\tabu@arstrutbox=\box85
+\tabu@hleads=\box86
+\tabu@vleads=\box87
+\tabu@cellskip=\skip76
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/threeparttable\thr
+eeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box88
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/threeparttablex\th
+reeparttablex.sty"
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+\TPTL@width=\skip77
+) ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ulem\ulem.sty"
+\UL@box=\box89
+\UL@hyphenbox=\box90
+\UL@skip=\skip78
+\UL@hook=\toks49
+\UL@height=\dimen306
+\UL@pe=\count334
+\UL@pixel=\dimen307
+\ULC@box=\box91
+Package: ulem 2019/11/18
+\ULdepth=\dimen308
+)
+("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/makecell\makecell.
+sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen309
+\c@nlinenum=\count335
+\TeXr@lab=\toks50
 ) ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.st
 y"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip67
-\bibsep=\skip68
+\bibhang=\skip79
+\bibsep=\skip80
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count315
+\c@NAT@ctr=\count336
 ) (week9demo.aux)
 \openout1 = `week9demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Info: Redefining \microtypecontext on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Info: Redefining \microtypecontext on input line 141.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 127.
+LaTeX Info: Redefining \showhyphens on input line 141.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1020,17 +1170,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count316
-\scratchdimen=\dimen276
-\scratchbox=\box74
-\nofMPsegments=\count317
-\nofMParguments=\count318
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count319
-\MPscratchDim=\dimen277
-\MPnumerator=\count320
-\makeMPintoPDFobject=\count321
-\everyMPtoPDFconversion=\toks42
+\scratchcounter=\count337
+\scratchdimen=\dimen310
+\scratchbox=\box92
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen311
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks52
 )
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty"
@@ -1038,8 +1188,8 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\AtBeginShipoutBox=\box75
-Package hyperref Info: Link coloring OFF on input line 127.
+\AtBeginShipoutBox=\box93
+Package hyperref Info: Link coloring OFF on input line 141.
 
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1053,11 +1203,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count322
+\c@section@level=\count343
 )
-LaTeX Info: Redefining \ref on input line 127.
-LaTeX Info: Redefining \pageref on input line 127.
-LaTeX Info: Redefining \nameref on input line 127.
+LaTeX Info: Redefining \ref on input line 141.
+LaTeX Info: Redefining \pageref on input line 141.
+LaTeX Info: Redefining \nameref on input line 141.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1093,40 +1243,40 @@ LaTeX Info: Redefining \nameref on input line 127.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count323
+\c@lstlisting=\count344
 <Images/sam-albury-oA7MMRxTVzo-unsplash.jpg, id=42, 4175.6pt x 3131.7pt>
 File: Images/sam-albury-oA7MMRxTVzo-unsplash.jpg Graphic file (type jpg)
 <use Images/sam-albury-oA7MMRxTVzo-unsplash.jpg>
 Package pdftex.def Info: Images/sam-albury-oA7MMRxTVzo-unsplash.jpg  used on in
-put line 128.
+put line 142.
 (pdftex.def)             Requested size: 361.32462pt x 270.99345pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-28.
+42.
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-28.
+42.
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-128.
+142.
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-128.
+142.
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 128.
+(Font)              <12> on input line 142.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 128.
+(Font)              <8> on input line 142.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 128.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 128
+(Font)              <6> on input line 142.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 142
 .
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1135,7 +1285,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 fg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 128
+LaTeX Font Info:    Trying to load font information for U+msb on input line 142
 .
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1148,20 +1298,20 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \openout7 = `week9demo.toc'.
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-35.
+49.
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 136.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 150.
 
-Overfull \hbox (49.99347pt too wide) in paragraph at lines 141--141
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 155--155
 []\T1/lmtt/m/n/10 ## -- Attaching packages ------------------------------------
 ------------------- tidyverse 1.3.0 -- 
  []
 
 
-Overfull \hbox (49.99347pt too wide) in paragraph at lines 152--152
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 166--166
 []\T1/lmtt/m/n/10 ## -- Conflicts ---------------------------------------------
 ------------- tidyverse_conflicts() -- 
  []
@@ -1171,42 +1321,52 @@ Overfull \hbox (49.99347pt too wide) in paragraph at lines 152--152
 {C:/Users/Rahul/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Images/sa
 m-albury-oA7MMRxTVzo-unsplash.jpg>]
 LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-168.
+179.
 ("C:\Users\Rahul\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmtt.fd"
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [2] [3
 
-] [4
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 247.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 247.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 247.
 
-] [5
+Overfull \hbox (580.25647pt too wide) in paragraph at lines 247--2484
+ [][] 
+ []
 
-] [6
+[4
+
+]
+Overfull \vbox (13200.76317pt too high) has occurred while \output is active []
+
+
+[5] [6
+
+] [7
 
 ] (week9demo.bbl
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 30.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 30.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 30.
-) [7
+) [8
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2509.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2509.
 (week9demo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 213.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2509.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2509.
  ) 
 Here is how much of TeX's memory you used:
- 31705 strings out of 480934
- 606412 string characters out of 2899917
- 901662 words of memory out of 3000000
- 46926 multiletter control sequences out of 15000+200000
- 588140 words of font info for 92 fonts, out of 3000000 for 9000
+ 33132 strings out of 480934
+ 626681 string characters out of 2899917
+ 1512668 words of memory out of 3000000
+ 48296 multiletter control sequences out of 15000+200000
+ 588246 words of font info for 93 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,11n,103p,810b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Rahul/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
@@ -1222,9 +1382,9 @@ s/type1/public/lm/lmri10.pfb><C:/Users/Rahul/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/lm/lmro10.pfb><C:/Users/Rahul/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/lm/lmtk10.pfb><C:/Users/Rahul/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on week9demo.pdf (7 pages, 614473 bytes).
+Output written on week9demo.pdf (8 pages, 720233 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
  16586 words of extra memory for PDF output out of 17280 (max. 10000000)
 
