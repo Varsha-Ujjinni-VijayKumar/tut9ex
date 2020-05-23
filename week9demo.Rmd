@@ -37,7 +37,7 @@ library(tidyverse)
 
 ```{r}
 library(readr)
-crime <- read_csv(file = "Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019(1).csv")
+crime <- read_csv(here::here("Data_Crime.csv"))
 ```
 \clearpage
 
@@ -49,7 +49,7 @@ crime <- read_csv(file = "Data_Tables_Criminal_Incidents_Visualisation_Year_Endi
 \clearpage
 
 # Section 2
-
+My name is Rahul. I'm from Bangalore. I like Table Tennis and Coding.
 
 \clearpage
 
