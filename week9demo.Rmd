@@ -42,9 +42,12 @@ crime <- read_csv(here::here( "Data_Crime.csv"))
 
 # Section 1
 ```{r}
+library(kableExtra)
 one <- crime %>% select(Year, `Offence Division`) %>%
-  filter(Year == "2017")
+  filter(Year == "2017") %>% kable() %>% kable_styling(bootstrap_options = c("striped", "hovered")) 
 ```
+
+
 
 my name is varsha and i think rahul is **LAZY**.
 "Rahul treat kodsu", birthday du.... ill get a gift :P
