@@ -36,16 +36,15 @@ library(tidyverse)
 
 
 ```{r}
-library(readr)
-crime <- read_csv(file = "Data_Tables_Criminal_Incidents_Visualisation_Year_Ending_December_2019(1).csv")
+crime <- read_csv(here::here( "Data_Crime.csv"))
 ```
 \clearpage
 
 # Section 1
 ```{r}
-
+one <- crime %>% select(Year, `Offence Division`) %>%
+  filter(Year == "2017")
 ```
-
 \clearpage
 
 # Section 2
