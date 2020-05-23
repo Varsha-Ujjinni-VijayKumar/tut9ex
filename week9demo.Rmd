@@ -45,6 +45,8 @@ crime <- read_csv(here::here( "Data_Crime.csv"))
 one <- crime %>% select(Year, `Offence Division`) %>%
   filter(Year == "2017")
 ```
+
+my name is varsha and i think rahul is **LAZY**.
 \clearpage
 
 # Section 2
