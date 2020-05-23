@@ -53,9 +53,13 @@ my name is varsha and i think rahul is **LAZY**.
 "Rahul treat kodsu", birthday du.... ill get a gift :P
 \clearpage
 
+
 # Section 2
-
-
+My name is Rahul. I'm from Bangalore. I like Table Tennis and Coding.
+```{r}
+data <- read_csv("Data_Crime.csv")
+data %>% kable() %>% kable_styling( bootstrap_options = 'striped')
+```
 \clearpage
 
 # Section 3
@@ -74,3 +78,4 @@ my name is varsha and i think rahul is **LAZY**.
 
 
  @BC64 and this is another article about COVID @bai2020presumed and I can also cite R packages as follows @ggplot2
+
